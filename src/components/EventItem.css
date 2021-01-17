@@ -1,0 +1,23 @@
+.item-row {
+  margin: 6px;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+.col-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.col-item {
+  font-size: 0.8rem;
+}
+.side-yellow {
+  position: absolute;
+  left: 0;
+  height: 100%;
+  margin-right: 2px;
+  width: 8px;
+  background-color: yellow;
+}
+.active-item {
+  background-color: #fffe0078;
+}

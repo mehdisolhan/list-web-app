@@ -1,0 +1,904 @@
+{
+  "data": [
+    {
+      "location": {
+        "latitude": 39.8229,
+        "type": "single_point",
+        "longitude": 32.84192
+      },
+      "extras": {
+        "vehicle_manufacturer": "Porsche",
+        "vehicle_model": "Element",
+        "vehicle_fuel": "Electric",
+        "vehicle_color": "white"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2020-06-28T15:17:49.854Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Crew Cab Pickup",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "3D6UQYUKDDM999899",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Coralie Hauck",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "Action Needed",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 45.38884,
+        "type": "single_point",
+        "longitude": 102.65313
+      },
+      "extras": {
+        "vehicle_manufacturer": "Nissan",
+        "vehicle_model": "Accord",
+        "vehicle_fuel": "Hybrid",
+        "vehicle_color": "ivory"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-05-10T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Passenger Van",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "HR46M0M0K1FS36239",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Javier Rowe",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 40.9229,
+        "type": "single_point",
+        "longitude": 33.84192
+      },
+      "extras": {
+        "vehicle_manufacturer": "Dodge",
+        "vehicle_model": "Spyder",
+        "vehicle_fuel": "Gasoline",
+        "vehicle_color": "yellow"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2022-01-01T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Cargo Van",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "4ACNE6HEHLAJ73618",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Hertha Rempel",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "Action Needed",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 24.72271,
+        "type": "single_point",
+        "longitude": 83.42059
+      },
+      "extras": {
+        "vehicle_manufacturer": "Land Rover",
+        "vehicle_model": "Durango",
+        "vehicle_fuel": "Diesel",
+        "vehicle_color": "magenta"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-12-25T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Sedan",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "1IYBYRHJD3SF91201",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Hilario Wuckert",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 60.33463,
+        "type": "single_point",
+        "longitude": -120.2026
+      },
+      "extras": {
+        "vehicle_manufacturer": "Kia",
+        "vehicle_model": "A8",
+        "vehicle_fuel": "Electric",
+        "vehicle_color": "purple"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2020-06-25T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Convertible",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "UTPULIY41YXO83462",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Devin Littel V",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 34.97341,
+        "type": "single_point",
+        "longitude": 105.65684
+      },
+      "extras": {
+        "vehicle_manufacturer": "Aston Martin",
+        "vehicle_model": "Element",
+        "vehicle_fuel": "Diesel",
+        "vehicle_color": "maroon"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-02-02T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Extended Cab Pickup",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "OPNZI814ZHP479801",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Alba Gutkowski",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 46.31799,
+        "type": "single_point",
+        "longitude": -85.00495
+      },
+      "extras": {
+        "vehicle_manufacturer": "Ford",
+        "vehicle_model": "Wrangler",
+        "vehicle_fuel": "Gasoline",
+        "vehicle_color": "plum"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-08-10T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Coupe",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "KX6VMO2C26L025934",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Taylor Streich",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "Action Needed",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 6.42321,
+        "type": "single_point",
+        "longitude": -0.96798
+      },
+      "extras": {
+        "vehicle_manufacturer": "Porsche",
+        "vehicle_model": "Silverado",
+        "vehicle_fuel": "Electric",
+        "vehicle_color": "mint green"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2020-05-06T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Hatchback",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "5S7N7YJCVYHF10653",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Dr. Donavon Heller",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "Action Needed",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 62.96604,
+        "type": "single_point",
+        "longitude": 178.20045
+      },
+      "extras": {
+        "vehicle_manufacturer": "Volkswagen",
+        "vehicle_model": "Explorer",
+        "vehicle_fuel": "Diesel",
+        "vehicle_color": "pink"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2022-03-19T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Coupe",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "H1B03OBBXPWP18699",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Dusty Lueilwitz",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": -7.50008,
+        "type": "single_point",
+        "longitude": -56.02164
+      },
+      "extras": {
+        "vehicle_manufacturer": "Ferrari",
+        "vehicle_model": "A4",
+        "vehicle_fuel": "Hybrid",
+        "vehicle_color": "mint green"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2023-12-10T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Extended Cab Pickup",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "6IMCNDC8QSXL61358",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Aidan Sawayn",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 1.2295,
+        "type": "single_point",
+        "longitude": -54.47876
+      },
+      "extras": {
+        "vehicle_manufacturer": "Lamborghini",
+        "vehicle_model": "Escalade",
+        "vehicle_fuel": "Gasoline",
+        "vehicle_color": "fuchsia"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-05-03T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Wagon",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "UGKCDMY3SZVU89696",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "King McKenzie V",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": -5.97849,
+        "type": "single_point",
+        "longitude": -56.19541
+      },
+      "extras": {
+        "vehicle_manufacturer": "BMW",
+        "vehicle_model": "Golf",
+        "vehicle_fuel": "Hybrid",
+        "vehicle_color": "olive"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-09-01T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Cargo Van",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "U9QSJ9U33SP561634",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Lukas Wiegand",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 55.83816,
+        "type": "single_point",
+        "longitude": 44.16595
+      },
+      "extras": {
+        "vehicle_manufacturer": "Toyota",
+        "vehicle_model": "Altima",
+        "vehicle_fuel": "Diesel",
+        "vehicle_color": "magenta"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2022-05-05T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "SUV",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "SXJF6GPRHTVK12924",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Kitty Bogan",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": -32.10737,
+        "type": "single_point",
+        "longitude": 135.47459
+      },
+      "extras": {
+        "vehicle_manufacturer": "Chevrolet",
+        "vehicle_model": "Prius",
+        "vehicle_fuel": "Gasoline",
+        "vehicle_color": "azure"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-06-30T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Crew Cab Pickup",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "DRAO9CXCJMES55909",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Domingo Beer III",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "Action Needed",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 47.24679,
+        "type": "single_point",
+        "longitude": -82.61879
+      },
+      "extras": {
+        "vehicle_manufacturer": "Rolls Royce",
+        "vehicle_model": "Element",
+        "vehicle_fuel": "Hybrid",
+        "vehicle_color": "sky blue"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-11-26T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Passenger Van",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "1VY9EG1O5YSE11473",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Jaqueline Miller",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 14.85964,
+        "type": "single_point",
+        "longitude": 9.29094
+      },
+      "extras": {
+        "vehicle_manufacturer": "Aston Martin",
+        "vehicle_model": "A8",
+        "vehicle_fuel": "Gasoline",
+        "vehicle_color": "purple"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2022-10-06T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Sedan",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "PLJD9DW0SZW596298",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Uriel Rippin",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": -6.08401,
+        "type": "single_point",
+        "longitude": -72.91474
+      },
+      "extras": {
+        "vehicle_manufacturer": "Honda",
+        "vehicle_model": "Jetta",
+        "vehicle_fuel": "Electric",
+        "vehicle_color": "pink"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2023-04-20T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Crew Cab Pickup",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "7O6Y67D7E1EG73547",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Nya Leuschke",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "Action Needed",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": -41.50267,
+        "type": "single_point",
+        "longitude": -68.83009
+      },
+      "extras": {
+        "vehicle_manufacturer": "Toyota",
+        "vehicle_model": "Spyder",
+        "vehicle_fuel": "Gasoline",
+        "vehicle_color": "olive"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-01-23T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Cargo Van",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "RRP7VXXUCIB812398",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Jake Haucke",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 52.90261,
+        "type": "single_point",
+        "longitude": 15.40971
+      },
+      "extras": {
+        "vehicle_manufacturer": "Nissan",
+        "vehicle_model": "LeBaron",
+        "vehicle_fuel": "Hybrid",
+        "vehicle_color": "turquoise"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2020-03-13T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Crew Cab Pickup",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "DU85C44U7BOC42068",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Max Weber",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "Action Needed",
+          "title": "action_status"
+        }
+      ]
+    },
+    {
+      "location": {
+        "latitude": 29.43982,
+        "type": "single_point",
+        "longitude": 33.0027
+      },
+      "extras": {
+        "vehicle_manufacturer": "Ferrari",
+        "vehicle_model": "F-150",
+        "vehicle_fuel": "Electric",
+        "vehicle_color": "black"
+      },
+      "details": [
+        {
+          "format": "date",
+          "value": "2021-05-01T01:26:48.579Z",
+          "title": "date"
+        },
+        {
+          "format": "string",
+          "value": "Minivan",
+          "title": "vehicle_type"
+        },
+        {
+          "format": "string",
+          "value": "GCB3RJ080JM719913",
+          "title": "vehicle_id"
+        },
+        {
+          "format": "string",
+          "value": "Beaulah Kemmer",
+          "title": "driver_name"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action"
+        },
+        {
+          "format": "string",
+          "value": "-",
+          "title": "action_status"
+        }
+      ]
+    }
+  ]
+}
