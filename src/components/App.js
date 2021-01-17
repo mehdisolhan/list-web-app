@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col, Spinner } from "react-bootstrap";
 import EventList from "./EventsList";
 import EventDetails from "./EventDetails";
 import unsplash from "../api/unsplash";
@@ -9,7 +9,8 @@ import "./App.css";
 function App() {
   const [fetchedData, setData] = useState([]);
   const [images, setImages] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [loadingItems, setLoadingItems] = useState(true);
+  const [loadingDetails, setLoadingDetails] = useState(true);
   const [active, setActive] = useState("");
   const [activeData, setActiveData] = useState([]);
   const [activeImage, setActiveImage] = useState();
@@ -18,7 +19,7 @@ function App() {
     const fetchData = async () => {
       const { data: result } = await axios.get("/data/data.json");
       setData(result.data);
-      setLoading(false);
+      setLoadingItems(false);
     };
     const fetchImages = async () => {
       const response = await unsplash.get("/photos?per_page=20");
@@ -26,7 +27,7 @@ function App() {
     };
     fetchData();
     fetchImages();
-  }, [setData, setImages, setLoading]);
+  }, [setData, setImages, setLoadingItems]);
 
   const updateActive = (activeIndex) => {
     setActive(activeIndex);
@@ -39,11 +40,15 @@ function App() {
       <Container fluid>
         <Row>
           <Col xs={8}>
-            <EventList
-              fetchedData={fetchedData}
-              updateActive={updateActive}
-              active={active}
-            />
+            {!loadingItems ? (
+              <EventList
+                fetchedData={fetchedData}
+                updateActive={updateActive}
+                active={active}
+              />
+            ) : (
+              <Spinner animation="border" className="loading-spinner" />
+            )}
           </Col>
           <Col xs={4} className="event-detail-sticky position-sticky">
             <EventDetails activeData={activeData} activeImage={activeImage} />
