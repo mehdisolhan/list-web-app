@@ -10,7 +10,6 @@ function App() {
   const [fetchedData, setData] = useState([]);
   const [images, setImages] = useState([]);
   const [loadingItems, setLoadingItems] = useState(true);
-  const [loadingDetails, setLoadingDetails] = useState(true);
   const [active, setActive] = useState("");
   const [activeData, setActiveData] = useState([]);
   const [activeImage, setActiveImage] = useState();
